@@ -1,0 +1,271 @@
+#mainbox{
+    background-color: rgb(54, 51, 51);
+    color: white;
+/* ;    height: 60px;
+    width: 1500px */
+    padding: 2px;
+}
+li{
+   /* display: inline;
+   margin: 15px;
+   position: relative;
+   left: 45%;
+   top: 5px; */
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h3{
+    display: inline;
+    background-color:white;
+    color: rgb(119, 116, 116);
+    margin: 20px;
+    position: relative;
+    bottom: 5px;
+    
+}
+#srch{
+    list-style-type: none;
+    position: relative;
+    right: 30px;
+    display: inline;
+   margin: 15px;
+   position: relative;
+   left: 45%;
+   top: 5px;
+}
+#box1{
+    color: blue;
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: 50px;
+    bottom: 2%;
+}
+#header{
+    background-color: white;
+    /* border: 2px solid lightblue; */
+}
+button{
+    display: inline;
+    background-color: rgb(48, 68, 245);
+    color:rgba(0,47,255 0.856);
+    font-size: small;
+    margin: 5px;
+    position: relative;
+    left: 23%;
+    bottom: 7px;
+    padding: 10px;
+    border-radius: 15px;
+    border: 1px solid lightblue;
+} 
+#box2{
+    background-color: white;
+    color: rgb(15, 75, 241);
+    padding: 10px;
+    border-radius:15px;
+    border: 1px solid rgba(0,47,255 0.856);
+    bottom: 7px;
+
+}
+#box3{
+    height: 900px;
+    max-width: 600px;
+    /* background-color: crimson; */
+}
+#box4{
+     font-size: 120px;
+}
+#box5{
+    font-size: 100px;
+    position: relative;
+    bottom: 90px;
+    color: rgb(19, 68, 231);
+}
+#box6{
+    position: relative;
+    bottom: 30px;
+    color: rgb(7, 6, 6);
+    bottom: 80px;
+}
+#box7{ 
+    position: relative;
+    left: 30px;
+    background-color: rgba(0,47,255,0.8856);
+    border-radius: 30px;
+    color: white;
+    font-size: medium;
+}
+#box8{
+    position: relative;
+    left: 40px;
+    border: 1px solid white;
+    background-color: white;
+    color: rgb(73, 73, 245);
+    font-size: medium;
+}
+#img{
+    position: relative;
+    left: 650px;
+    height: 300px;
+    max-width: 300px;
+    border: 2px solid;
+    border-radius: 12px;
+    bottom: 390px;
+}
+#img2{
+    position: relative;
+    height: 480px;
+    width: 400px;
+    bottom: 1200px;
+    left: 800px;
+    border-radius: 12px;
+    border: 2px solid ;
+}
+#h2{
+    font-size: 45px;
+    text-align: center;
+}
+#orc{
+    height: 350px;
+    max-width: 350px;
+    position: relative;
+    bottom: 20px;
+    /* background-color: aqua; */
+    border-radius: 25px;
+    border: 2px solid aliceblue;
+}
+#cap{
+    height: 350px;
+    max-width: 350px;
+    /* background-color:blue; */
+    position: relative;
+    left: 400px;
+    bottom: 370px;
+    border-radius: 25px;
+    border: 2px solid aliceblue;
+}
+#forb{
+    height: 350px;
+    max-width: 350px;
+    /* background-color:blue; */
+    position: relative;
+    left: 800px;
+    bottom: 730px;
+    border-radius: 25px;
+    border: 2px solid aliceblue;
+}
+#h1{
+    font-size: 25px;
+}
+#h{
+    font-size: 25px;
+}
+#forb2{
+    font-size: 25px;
+}
+#orc:hover{
+    background-color:red;
+
+}
+#cap:hover{
+    background-color:rgba(3, 88, 138, 0.966);
+}
+#forb:hover{
+    background-color:darkslategray;
+}
+#btn{
+    background-color: white;
+    color: rgb(0,47,255,0.8856);
+    position: relative;
+    left: 45%;
+    bottom: 600px;
+}
+#ready{
+    height: 250px;
+    max-width: 100%;
+    position: relative;
+    bottom: 600px;
+    background-color: rgb(0,47,255,0.8856);
+}
+#to{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    position: relative;
+    top: 30px;
+}
+#bn{
+    background-color: rgb(37, 218, 218);
+    color: rgb(8, 7, 7);
+    position: relative;
+    left:400px;
+    top: 30px;
+    margin: 30px;
+}
+#bt{
+    color: white;
+    margin: 20px;
+    position: relative;
+    left: 35%;
+    top: 30px;
+}
+#about{
+    background-color: black;
+    color: white;
+    position: relative;
+    bottom: 625px;
+    height: 500px;
+    width:100%;
+    list-style-type: none;
+}
+#Download{
+    position: relative;
+    bottom: 345px;
+    left: 230px;
+    margin: 8px;
+}
+#sales{
+    position: relative;
+    bottom: 550px;
+    left: 500px;
+}
+#support{
+    position: relative;
+    bottom: 720px;
+    left: 60%;
+}
+#lang{
+    position: relative;
+    bottom: 1000px;
+    left: 76%;
+}
+#opt{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    position: relative;
+    left: 2%;
+}
+#doll{
+     background-color: black;
+     color: white;
+    border: 1px solid white;
+    padding: 8px;
+    position: relative;
+    left: 1.5%;
+}
+#copy{
+    position: relative;
+    bottom: 800px;
+    left: 42px;
+    font-size: 16px;
+}
+#choice{
+    position: relative;
+    bottom: 811px;
+    left: 50%;
+    font-size: 16px;
+
+}
